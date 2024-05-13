@@ -1,10 +1,10 @@
 export default defineAppConfig({
-  name: "Igor's lucky notes",
+  name: "Nicolas lucky notes",
   description: "Build & learn in public notes",
-  host: "notes.igorhalfeld.com",
+  host: "notes.nicolaswalkcer.com",
 
   author: {
-    twitter: "igorhalfeld",
+    twitter: "whywalcker",
   },
 
   publishing: {
@@ -18,6 +18,6 @@ export default defineAppConfig({
   },
 
   ui: {
-    primary: "cyan",
+    primary: "green",
   },
 });
