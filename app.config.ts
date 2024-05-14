@@ -1,7 +1,7 @@
 export default defineAppConfig({
   name: "Nicolas lucky notes",
   description: "Build & learn in public notes",
-  host: "notes.nicolaswalkcer.com",
+  host: "nicolaswalcker-luckynotes.netlify.app",
 
   author: {
     twitter: "whywalcker",
